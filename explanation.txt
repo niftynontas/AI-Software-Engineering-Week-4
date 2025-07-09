@@ -1,0 +1,11 @@
+📝 200-Word Analysis:
+
+In this task, I created a Python function to sort a list of dictionaries manually using sorted() and a lambda function. This approach worked well and was easy to understand. It simply accessed each dictionary’s value at the specified key and sorted the list accordingly.
+
+I then used GitHub Copilot to suggest its own version. Interestingly, the function it generated was almost identical in logic. Copilot’s version was named slightly differently (sort_dictionaries_by_key) but used the same sorting method and syntax.
+
+Both versions produced the same output when tested with a list of product dictionaries sorted by "price". There was no major functional difference in this case, which shows that for simple tasks, AI suggestions closely mimic human-written code.
+
+However, Copilot saved time by instantly writing a working function with a proper docstring. This can be extremely helpful during rapid prototyping or while building larger systems.
+
+Overall, while my manual version demonstrated clear logic and understanding, the AI-suggested version offered speed and convenience. For straightforward operations like this, AI tools can be just as effective — but for more complex logic, human review is still essential.

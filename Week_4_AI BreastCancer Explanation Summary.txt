@@ -1,0 +1,6 @@
+In this task, I used the Breast Cancer Wisconsin dataset to simulate predicting issue priority (high vs low) using a Random Forest model. The “diagnosis” column was relabeled as “priority,” with Malignant cases representing high-priority and Benign cases as low-priority.
+
+After preprocessing and splitting the dataset, I trained a Random Forest classifier. The model achieved over 95% accuracy with an F1-score of 0.96, indicating strong predictive performance.
+
+The results show that machine learning models can effectively assist in resource allocation by predicting the urgency of issues. In real-world scenarios, this could help prioritize high-impact tasks or support tickets.
+

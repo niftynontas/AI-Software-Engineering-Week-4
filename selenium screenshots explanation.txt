@@ -1,0 +1,7 @@
+I used Selenium IDE to automate testing for a login page using both valid and invalid credentials. 
+The tool allowed me to record the steps easily without writing code, making the process beginner-friendly. 
+For valid input, the test checked for a successful login message. For invalid credentials, it verified that the appropriate error message appeared.
+Using AI-enhanced plugins (like Testim or Selenium’s smart locators), the tool adapted to changes in element identifiers and improved accuracy. 
+This is a major advantage over manual testing, which would require constant script updates and manual checking.
+AI also helped detect reusable test steps and offered suggestions for assertions, reducing effort and improving test coverage. In a real-world project, this would save hours and catch edge cases faster.
+Overall, AI-powered testing tools made the process smoother, more reliable, and scalable compared to writing everything manually.
